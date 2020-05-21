@@ -98,5 +98,25 @@ Effectuez une recherche pour obtenir le salaire moyen et le nombre de salariés 
 
 Effectuez une recherche pour obtenir le salaire maximum et minimum du tableau des employés.
 
+Rédigez une requête pour afficher le nom (prénom, nom) et le salaire de tous les employés dont le salaire n'est pas compris entre 10 000 et 15 000 dollars.
+
+Rédigez une requête pour afficher le nom (prénom, nom) et l'ID du département de tous les employés des départements 30 ou 100 par ordre croissant.
+
+Rédigez une requête pour afficher le nom (prénom, nom) et le salaire de tous les employés dont le salaire ne se situe pas dans la fourchette de 10 000 à 15 000 dollars et qui se trouvent dans le département 30 ou 100.
+
+Rédigez une requête pour afficher le nom (prénom, nom) et la date d'embauche pour tous les employés qui ont été embauchés en 1987.
+
+Rédigez une requête pour trouver le nom (prénom, nom) de tous les employés qui travaillent dans le département informatique.
+
+Rédigez une requête pour trouver les adresses (ID_lieu, adresse_rue, ville, état_province, nom_pays) de tous les départements.
+
+# Conseil : utilisez JOINTURE NATURELLE
+
+Rédigez une requête pour afficher le titre du poste et le salaire moyen des employés.
+
+Rédigez une requête pour calculer l'âge en année.
+
+Rédigez une requête pour mettre à jour la partie du numéro de téléphone dans la table des employés. Dans le numéro de téléphone, la sous-chaîne "124" sera remplacée par "999".
+
 
 
