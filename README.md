@@ -110,7 +110,7 @@ Rédigez une requête pour trouver le nom (prénom, nom) de tous les employés q
 
 Rédigez une requête pour trouver les adresses (ID_lieu, adresse_rue, ville, état_province, nom_pays) de tous les départements.
 
-# Conseil : utilisez JOINTURE NATURELLE
+conseil : utilisez JOINTURE NATURELLE
 
 Rédigez une requête pour afficher le titre du poste et le salaire moyen des employés.
 
